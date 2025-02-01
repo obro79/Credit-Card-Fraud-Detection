@@ -8,3 +8,9 @@ textColor = "#262730"
 maxUploadSize = 200
 enableXsrfProtection = true
 enableCORS = false
+
+[browser]
+gatherUsageStats = false
+
+[ui]
+hideStreamlitMarking = true
